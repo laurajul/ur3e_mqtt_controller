@@ -116,15 +116,8 @@ Then publish a message to the MQTT topic `robot/scenes` using the IoT MQTT Panel
 
 ---
 
-## License
+## Setup
 
-MIT License (or use your preferred license)
 
-```
-
-Let me know if you want to include:
-- A `requirements.txt` file
-- Example MQTT Panel JSON config
-- Screenshots or usage tips for IoT MQTT Panel
-```
+![MQTT Dashboard Example](img/schema.png)
 
