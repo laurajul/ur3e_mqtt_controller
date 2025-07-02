@@ -119,5 +119,5 @@ Then publish a message to the MQTT topic `robot/scenes` using the IoT MQTT Panel
 ## Setup
 
 
-![MQTT Dashboard Example](img/schema.png)
+![MQTT Dashboard Example](img/schema-1400.webp)
 
