@@ -120,5 +120,5 @@ Then publish a message to the MQTT topic `robot/scenes` using the IoT MQTT Panel
 
 
 ![MQTT Dashboard Example](img/schema-1400.webp)
-Schema by Tyanka Demyanka Adrian
+Schema by [Tyanka Demyanka Adrian](https://github.com/rtyankaa)
 
